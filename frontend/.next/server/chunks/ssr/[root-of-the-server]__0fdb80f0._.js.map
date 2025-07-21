@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/wth8e/OneDrive/Desktop/web%202025/next-test/src/app/page.js"],"sourcesContent":["import Image from \"next/image\";\n\nexport default function Home() {\n    return (\n        <div className=\"bg-white h-screen w-screen text-black flex items-center justify-center\">\n            Home\n        </div>\n    );\n}\n"],"names":[],"mappings":";;;;AAAA;;;AAEe,SAAS;IACpB,qBACI,8OAAC;QAAI,WAAU;kBAAyE;;;;;;AAIhG","debugId":null}}]
+}

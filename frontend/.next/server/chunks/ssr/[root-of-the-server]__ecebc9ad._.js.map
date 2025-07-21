@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/wth8e/OneDrive/Desktop/web%202025/next-test/src/app/products/page.jsx"],"sourcesContent":["export default function Page() {\r\n    return <div>Products</div>;\r\n}\r\n"],"names":[],"mappings":";;;;;AAAe,SAAS;IACpB,qBAAO,8OAAC;kBAAI;;;;;;AAChB","debugId":null}}]
+}
